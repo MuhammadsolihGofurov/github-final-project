@@ -1,3 +1,13 @@
-Contributing to Simple Interest Calculator
-Thank you for considering contributing!
-Bug reports, bug fixes, and enhancements are welcome. Please open an issue or submit a pull request.
+# Contributing to Simple Interest Calculator
+
+Thank you for your interest in contributing to this project!
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+## How to Contribute
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes with clear messages.
+4. Submit a pull request to the main branch.
+
+We appreciate your help in making this project better!
